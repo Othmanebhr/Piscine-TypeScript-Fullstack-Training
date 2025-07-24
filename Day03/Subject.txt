@@ -1,0 +1,29 @@
+📅 JOUR 03 — Types avancés & Generics
+
+------------------------------------------------------------------
+
+Exercice 00 - generic_array
+
+- Fonction firstElement<T>(arr: T[]): T
+
+------------------------------------------------------------------
+
+Exercice 01 - generic_pair
+
+- Classe Pair<T, U> avec first: T et second: U
+
+------------------------------------------------------------------
+
+Exercice 02 - keyof_mapped
+
+- Fonction qui prend un objet Record<string, number>
+- Affiche chaque clé/valeur typée avec keyof
+
+------------------------------------------------------------------
+
+Exercice 03 - type_narrowing
+
+- Fonction handle(value: string | number)
+- Si string: affiche sa longueur. Si number: vérifie si pair.
+
+------------------------------------------------------------------
