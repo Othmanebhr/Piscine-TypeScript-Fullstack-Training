@@ -11,7 +11,7 @@ J'avais deux but lors de la creations de cette piscine:
 > - Prendre en main le TypeScript afin de pouvoir realiser des missions freelance : backend + frontend (On a tous besoin d'argent 🙃​)
 
 ## <ins>Structure<ins/>
-- [DAYS 00](#Days00)
+- [DAYS 00](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day00)
 - [DAYS 01](#Days01)
 - [DAYS 02](#Days02)
 - [DAYS 03](#Days03)
