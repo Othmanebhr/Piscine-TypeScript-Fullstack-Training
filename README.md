@@ -12,7 +12,7 @@ J'avais deux but lors de la creations de cette piscine:
 
 ## <ins>Structure<ins/>
 - [DAY 00](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day00)
-- [DAY 01](#Days01)
+- [DAY 01](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day01)
 - [DAY 02](#Days02)
 - [DAY 03](#Days03)
 - [DAY 04](#Days04)
