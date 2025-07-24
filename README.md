@@ -29,6 +29,8 @@ J'avais deux but lors de la creations de cette piscine:
 - Types et fonctions
 ### Day 02:
 - Interfaces et classes
+### Day 03:
+- Generique
 
 ## 📝 Post-Scriptum
 Cette "piscine" n’est absolument pas officielle. Elle a simplement été créée dans le but d’apprendre ou de revoir les bases de TypeScript.
