@@ -10,4 +10,4 @@ function getStatus(code: number | string) : string
 
 console.log(getStatus(9));
 console.log(getStatus("othmane"));
-console.error(getStatus([1,2,3])); //ERROR
+// console.error(getStatus([1,2,3])); //ERROR
