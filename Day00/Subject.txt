@@ -1,0 +1,44 @@
+📅 JOUR 00 — Bases du langage
+
+------------------------------------------------------------------
+
+Exercice 00 - hello_ts
+
+- Crée un fichier hello.ts
+- Affiche "Hello, TypeScript!" dans la console avec console.log
+- Compile avec tsc hello.ts et exécute le JS
+
+------------------------------------------------------------------
+
+Exercice 01 - types_basic
+
+- Crée un fichier avec les variables suivantes :
+let age: number;
+let name: string;
+let isStudent: boolean;
+let scores: number[];
+let settings: [string, number];
+let anything: any;
+let notSure: unknown;
+let role: 'admin' | 'user';
+
+- Donne une valeur valide à chaque variable
+
+------------------------------------------------------------------
+
+Exercice 02 - type_inference
+
+- Crée 3 fonctions avec inférence de types :
+function greet(name) {...}
+function multiply(x, y) {...}
+function isEven(n) {...}
+
+------------------------------------------------------------------
+
+Exercice 03 - function_types
+
+- Crée une fonction sum(a: number, b: number): number
+- Une fonction concat(a: string, b: string): string
+- Une fonction reverse(arr: string[]): string[]
+
+------------------------------------------------------------------
