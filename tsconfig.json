@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "build"
+        // "noEmit": true
+    },
+    "include": [
+        "Day*/**/*.ts"
+    ],
+}
