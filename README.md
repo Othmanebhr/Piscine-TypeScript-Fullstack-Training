@@ -32,7 +32,7 @@ J'avais deux but lors de la creations de cette piscine:
 ### Day 03:
 - Generique
 ### Day 04:
-- Day 04 : Modules et organisation du code
+- Modules et organisation du code
 
 ## 📝 Post-Scriptum
 Cette "piscine" n’est absolument pas officielle. Elle a simplement été créée dans le but d’apprendre ou de revoir les bases de TypeScript.
