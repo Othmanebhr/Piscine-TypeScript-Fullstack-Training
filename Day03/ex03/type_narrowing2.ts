@@ -11,4 +11,4 @@ function handle2(value: number | string)
 handle2(12);
 handle2(55);
 handle2("Te");
-handle2([12, 26]);
+// handle2([12, 26]);
