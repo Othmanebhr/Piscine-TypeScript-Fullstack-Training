@@ -79,11 +79,11 @@ type ID = string | number;
 ---------------------------------------------------------------------------------------------
 
 📋 Comparaison rapide
-Concept	    | Utilisation	        | Instanciation  | Héritage
-Interface	| Structure/contrat 	| ❌ Non        | ✅ extends
-Objet	    | Données concrètes	    | ✅ Direct	   | ❌ Non
-Classe	    | Structure + logique	| ✅ new	       | ✅ extends
-Type	    | Alias/union	        | ❌ Non        | ✅ & (intersection)
+Concept     | Utilisation           | Instanciation  | Héritage
+Interface   | Structure/contrat     | ❌ Non        | ✅ extends
+Objet       | Données concrètes     | ✅ Direct     | ❌ Non
+Classe      | Structure + logique   | ✅ new        | ✅ extends
+Type        | Alias/union           | ❌ Non        | ✅ & (intersection)
 
 ---------------------------------------------------------------------------------------------
 
