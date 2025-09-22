@@ -11,10 +11,10 @@ class Dog extends Animal
 	makeSound(): void { console.log("Woof Woof!"); }
 }
 
-let test = new Dog();
-console.log(`${test.name} say:`);
-test.makeSound();
+let test1 = new Dog();
+console.log(`${test1.name} say:`);
+test1.makeSound();
 
-test = new Animal;
-console.log(`${test.name} say:`);
-test.makeSound();
+test1 = new Animal;
+console.log(`${test1.name} say:`);
+test1.makeSound();
