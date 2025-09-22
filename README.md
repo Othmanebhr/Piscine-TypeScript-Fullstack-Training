@@ -16,7 +16,7 @@ J'avais deux but lors de la creations de cette piscine:
 - [DAY 01](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day01)
 - [DAY 02](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day02)
 - [DAY 03](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day03)
-- DAY 04 - WORK IN PROGRESS 🚧
+- [DAY 04](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day04)
 - DAY 05 - WORK IN PROGRESS 🚧
 - DAY 06 - WORK IN PROGRESS 🚧
 - DAY 07 - WORK IN PROGRESS 🚧
@@ -31,6 +31,8 @@ J'avais deux but lors de la creations de cette piscine:
 - Interfaces et classes
 ### Day 03:
 - Generique
+### Day 04:
+- Day 04 : Modules et organisation du code
 
 ## 📝 Post-Scriptum
 Cette "piscine" n’est absolument pas officielle. Elle a simplement été créée dans le but d’apprendre ou de revoir les bases de TypeScript.
