@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2020", //definira la version de Js qu'oon veut utiliser
+    "module": "commonjs", //indique le module utiliser (Pour utiliser les export/import)
+    "rootDir": "./src", //indique le dossier ou se trouve les fichiers Ts
+    "outDir": "./dist", //indique le dossier ou mettre les tichiers Js
+    "strict": true, //Sécurité pour evité de potentiels bug, detectra des erreurs a la compilations
+    "skipLibCheck": true // Evite les erreurs de dépendances mal typé mais dangereux dans le cas ou il y a un bug
+  }
+}
