@@ -1,31 +1,20 @@
-📅 JOUR 05 — Node.js + TypeScript (backend)
+📅 JOUR 05 — Node.js + TypeScript : Partie 1 — Projet et configuration
 
 ------------------------------------------------------------------
 
-Exercice 00 - ts_node_project
+Exercice 00 - init_project
 
-Initialise projet Node/TS
-Utilise ts-node et nodemon
-Crée un fichier server.ts qui affiche un message
-
-------------------------------------------------------------------
-
-Exercice 01 - express_ts
-
-Installe Express et types
-Crée un serveur avec route GET /hello => "Hello API"
+- Initialise un projet Node.js (npm init -y)
+- Installe TypeScript globalement ou localement (npm i typescript -D)
+- Crée un tsconfig.json simple
+- Crée un dossier src/ avec index.ts
 
 ------------------------------------------------------------------
 
-Exercice 02 - validate_input
+Exercice 01 - run_ts
 
-Middleware qui vérifie qu'un body contient une clé name: string
-
-------------------------------------------------------------------
-
-Exercice 03 - async_handler
-
-Fonction async qui fetch une API (faker ou jsonplaceholder)
-Utilise try/catch pour gérer les erreurs
+- (Refaire les différentes étaptes de l'ex00)
+- Compile avec tsc et exécute le JS avec node src/index.js
+- Vérifie que le message dans la console s'affiche correctement
 
 ------------------------------------------------------------------
