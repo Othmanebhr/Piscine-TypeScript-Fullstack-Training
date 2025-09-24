@@ -9,10 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "dependencies": {
-    "@types/express": "^5.0.3",
-    "express": "^5.1.0",
     "typescript": "^5.9.2"
   }
 }
