@@ -1,6 +1,6 @@
-📅 JOUR 05 — Node.js + TypeScript : Partie 1 — Projet et configuration
+📅 JOUR 06 — Node.js + TypeScript : Partie 1 — Projet et configuration
 
-------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 Exercice 00 - init_project
 
@@ -9,12 +9,11 @@ Exercice 00 - init_project
 - Crée un tsconfig.json simple
 - Crée un dossier src/ avec index.ts
 
-------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 Exercice 01 - run_ts
 
-- (Refaire les différentes étaptes de l'ex00)
 - Compile avec tsc et exécute le JS avec node src/index.js
 - Vérifie que le message dans la console s'affiche correctement
 
-------------------------------------------------------------------
+-----------------------------------------------------------------------
