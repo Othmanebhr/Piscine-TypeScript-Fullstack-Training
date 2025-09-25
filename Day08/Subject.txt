@@ -1,18 +1,11 @@
-📅 JOUR 08 — Node.js + TypeScript : Partie 3 — Middlewares et gestion async
+📅 JOUR 08 — Params & Query
 
-----------------------------------------------------------------------------
+--------------------------------------------------
 
-Exercice 00 - validate_input
+Exercice 00 - params
 
-- Middleware qui vérifie qu'un body contient une clé name: string
-- Test avec une requête POST et vérifie les retours
+- Route /user/:id → récupérer req.params.id
+- Exercice 01 - query
+- Route /search?term=xxx → récupérer req.query.term
 
-----------------------------------------------------------------------------
-
-Exercice 01 - async_handler
-
-- Fonction async qui fetch une API (faker ou jsonplaceholder)
-- Utilise try/catch pour gérer les erreurs
-- Affiche les résultats dans la console ou la réponse HTTP
-
-----------------------------------------------------------------------------
+--------------------------------------------------

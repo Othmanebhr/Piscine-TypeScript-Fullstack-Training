@@ -1,17 +1,10 @@
-📅 JOUR 07 — Node.js + TypeScript : Partie 2 — Express et routes
+📅 JOUR 07 — Express serveur simple
 
--------------------------------------------------------------------------
+-----------------------------------------------------
 
-Exercice 00 - install_express
+Exercice 00 - express_ts
 
-- Installe Express et ses types : npm i express et npm i @types/express -D
-- Crée server.ts dans src/
+- Installe Express et types
+- Crée un serveur avec route GET /hello => "Hello API"
 
--------------------------------------------------------------------------
-
-Exercice 01 - basic_server
-
-- Crée un serveur simple avec app.get('/hello', ...)
-- Vérifie que l'API renvoie "Hello API" via Postman ou navigateur
-
--------------------------------------------------------------------------
+-----------------------------------------------------

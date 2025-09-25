@@ -1,0 +1,18 @@
+📅 JOUR 08 — Node.js + TypeScript : Partie 3 — Middlewares et gestion async
+
+----------------------------------------------------------------------------
+
+Exercice 00 - validate_input
+
+- Middleware qui vérifie qu'un body contient une clé name: string
+- Test avec une requête POST et vérifie les retours
+
+----------------------------------------------------------------------------
+
+Exercice 01 - async_handler
+
+- Fonction async qui fetch une API (faker ou jsonplaceholder)
+- Utilise try/catch pour gérer les erreurs
+- Affiche les résultats dans la console ou la réponse HTTP
+
+----------------------------------------------------------------------------
