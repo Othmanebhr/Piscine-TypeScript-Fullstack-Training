@@ -5,6 +5,9 @@
 Exercice 00 - params
 
 - Route /user/:id → récupérer req.params.id
+
+--------------------------------------------------
+
 - Exercice 01 - query
 - Route /search?term=xxx → récupérer req.query.term
 
