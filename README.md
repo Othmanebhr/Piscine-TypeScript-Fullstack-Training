@@ -20,9 +20,11 @@ J'avais deux but lors de la creations de cette piscine:
 - [DAY 05](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day05)
 - [DAY 06](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day06)
 - [DAY 07](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day07)
-- DAY 08 - WORK IN PROGRESS 🚧
-- DAY 09 - WORK IN PROGRESS 🚧
+- [DAY 08](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day08)
+- [DAY 09](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day09)- WORK IN PROGRESS 🚧
 - DAY 10 - WORK IN PROGRESS 🚧
+- DAY 11 - WORK IN PROGRESS 🚧
+- DAY 12 - WORK IN PROGRESS 🚧
 
 ## Days
 
@@ -39,15 +41,19 @@ J'avais deux but lors de la creations de cette piscine:
 ### Day 05:
 - Fonctions fléchées
 ### Day 06:
-- Node.js + TypeScript : Partie 1 — Projet et configuration
+- Projet Node/TS (init)
 ### Day 07:
-- Node.js + TypeScript : Partie 2 — Express et routes
+- Express serveur simple
 ### Day 08:
-- Node.js + TypeScript : Partie 3 — Middleware et asynchronisme
+- Params & Query
 ### Day 09:
-- TypeScript côté Frontend — DOM, formulaires, React et appels API
+- Manipulation du Body
 ### Day 10:
-- Mini-projet de synthèse — Mise en pratique complète des acquis
+- Middlewares & async
+### Day 11:
+- TypeScript dans le Frontend
+### Day 12:
+- Projet mini complet
 
 ## 📝 Post-Scriptum
 Cette "piscine" n’est absolument pas officielle. Elle a simplement été créée dans le but d’apprendre ou de revoir les bases de TypeScript.
