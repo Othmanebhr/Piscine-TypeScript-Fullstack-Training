@@ -6,5 +6,6 @@ Exercice 00 - express_ts
 
 - Installe Express et types
 - Crée un serveur avec route GET /hello => "Hello API"
+- Test ton programme avec un script start
 
 -----------------------------------------------------
