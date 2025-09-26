@@ -1,16 +1,16 @@
 📅 JOUR 10 — Middlewares & async
 
-------------------------------------------------------------
+-------------------------------------------------------------
 
 Exercice 00 - middleware_validation
 
 - Crée un middleware qui valide que req.body.name est défini
 
-------------------------------------------------------------
+-------------------------------------------------------------
 
 Exercice 01 - async_handler
 
 - Fonction async qui fetch une API (faker ou jsonplaceholder)
 - Utilise try/catch pour gérer les erreurs
 
-------------------------------------------------------------
+-------------------------------------------------------------
