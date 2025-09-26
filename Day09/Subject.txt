@@ -5,6 +5,9 @@
 Exercice 00 - body_middleware
 
 - Active express.json() comme middleware global
+
+------------------------------------------------------------
+
 - Exercice 01 - body_post
 - Route POST /user → lire req.body (par ex. { name: string })
 
@@ -13,6 +16,9 @@ Exercice 00 - body_middleware
 Exercice 02 - body_validation
 
 - Vérifie que name existe et est une string
+
+------------------------------------------------------------
+
 - Exercice 03 - body_response
 - Retourne un JSON structuré { success: true, user: {...} }
 
