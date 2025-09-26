@@ -1,0 +1,29 @@
+📅 JOUR 11 — TypeScript dans le Frontend
+
+------------------------------------------------------
+
+Exercice 00 - dom_ts
+
+- Crée une page HTML + script TS
+- Interagis avec un bouton, affiche un texte
+
+------------------------------------------------------
+
+Exercice 01 - form_typing
+
+- Crée un formulaire avec champ email
+- Récupère la valeur en TS, vérifie son format
+
+------------------------------------------------------
+
+Exercice 02 - react_props_ts
+
+- Composant React Hello avec props typées name: string
+
+------------------------------------------------------
+
+Exercice 03 - axios_ts
+
+- Appelle une API et affiche les données dans la page
+
+------------------------------------------------------
