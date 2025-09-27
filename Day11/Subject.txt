@@ -1,29 +1,29 @@
-📅 JOUR 11 — TypeScript dans le Frontend
+📅 JOUR 11 — DOM basique (révision + découverte)
 
-------------------------------------------------------
+--------------------------------------------------------------------------------
 
-Exercice 00 - dom_ts
+Exercice 00 - selectEl
 
-- Crée une page HTML + script TS
-- Interagis avec un bouton, affiche un texte
+- Crée une fonction fléchée selectEl(id: string) qui retourne un élément DOM
 
-------------------------------------------------------
+--------------------------------------------------------------------------------
 
-Exercice 01 - form_typing
+Exercice 01 - click_event
 
-- Crée un formulaire avec champ email
-- Récupère la valeur en TS, vérifie son format
+- Sélectionner un bouton et afficher un message dans la console quand on clique 
+  dessus.
 
-------------------------------------------------------
+--------------------------------------------------------------------------------
 
-Exercice 02 - react_props_ts
+Exercice 02 - text_update
 
-- Composant React Hello avec props typées name: string
+- Modifier dynamiquement le texte d’un élément (révision des types string).
 
-------------------------------------------------------
+--------------------------------------------------------------------------------
 
-Exercice 03 - axios_ts
+Exercice 03 - list_insert
 
-- Appelle une API et affiche les données dans la page
+- Créer et insérer un nouvel élément <li> dans une <ul> 
+(révision classes & objets simples).
 
-------------------------------------------------------
+--------------------------------------------------------------------------------
