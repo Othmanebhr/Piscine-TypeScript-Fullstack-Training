@@ -1,0 +1,29 @@
+📅 JOUR 12 — Formulaires & Événements
+
+------------------------------------------------------------------------------------
+
+Exercice 00 - email_check
+
+- Créer un formulaire avec champ email → 
+  vérifier son format avec une fonction de validation 
+  (révision Day 01 union et literal types).
+
+------------------------------------------------------------------------------------
+
+Exercice 01 - form_interface
+
+- Utiliser un type ou interface pour représenter les données du formulaire.
+
+------------------------------------------------------------------------------------
+
+Exercice 02 - formdata_generic
+
+- Sur submit, afficher un objet FormData typé (révision Day 03 generics).
+
+------------------------------------------------------------------------------------
+
+Exercice 03 - submit_handler
+- Créer une fonction fléchée handleSubmit qui renvoie { success: boolean, data?: T } 
+  (révision Day 05 + generics).
+
+------------------------------------------------------------------------------------
