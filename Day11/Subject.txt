@@ -17,7 +17,7 @@ Exercice 01 - click_event
 
 Exercice 02 - text_update
 
-- Modifier dynamiquement le texte d’un élément (révision des types string).
+- Modifier dynamiquement le texte d’un élément.
 
 --------------------------------------------------------------------------------
 
