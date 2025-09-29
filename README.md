@@ -25,6 +25,10 @@ J'avais deux but lors de la creations de cette piscine:
 - [DAY 10](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day10)
 - [DAY 11](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day11) - WORK IN PROGRESS 🚧
 - DAY 12 - WORK IN PROGRESS 🚧
+- DAY 13 - WORK IN PROGRESS 🚧
+- DAY 14 - WORK IN PROGRESS 🚧
+- DAY 15 - WORK IN PROGRESS 🚧
+- DAY 16 - WORK IN PROGRESS 🚧
 
 ## Days
 
@@ -51,9 +55,17 @@ J'avais deux but lors de la creations de cette piscine:
 ### Day 10:
 - Middlewares & async
 ### Day 11:
-- TypeScript dans le Frontend
+- DOM basique (révision + découverte)
 ### Day 12:
-- Projet mini complet
+- Formulaires & Événements
+### Day 13:
+- Introduction à React + TypeScript
+### Day 14:
+- Fetch/Axios & Intégration API
+### Day 15:
+- Mini-projet Frontend (cumulatif)
+### Day 16:
+- Projets Front + Back (cumulatifs)
 
 ## 📝 Post-Scriptum
 Cette "piscine" n’est absolument pas officielle. Elle a simplement été créée dans le but d’apprendre ou de revoir les bases de TypeScript.
