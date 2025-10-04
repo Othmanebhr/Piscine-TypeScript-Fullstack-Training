@@ -24,8 +24,8 @@ J'avais deux but lors de la creations de cette piscine:
 - [DAY 09](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day09)
 - [DAY 10](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day10)
 - [DAY 11](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day11)
-- [DAY 12](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day12) - WORK IN PROGRESS 🚧
-- DAY 13 - WORK IN PROGRESS 🚧
+- [DAY 12](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day12)
+- [DAY 13](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day13) - WORK IN PROGRESS 🚧
 - DAY 14 - WORK IN PROGRESS 🚧
 - DAY 15 - WORK IN PROGRESS 🚧
 - DAY 16 - WORK IN PROGRESS 🚧
