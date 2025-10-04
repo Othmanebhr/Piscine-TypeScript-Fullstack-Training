@@ -1,0 +1,31 @@
+📅 JOUR 13 — Introduction à React + TypeScript
+
+-----------------------------------------------------------
+
+Exercice 00 - hello_react
+
+- Créer un composant Hello avec props typées name: string.
+  (révision interfaces)
+
+-----------------------------------------------------------
+
+Exercice 01 - counter
+
+- Créer un Counter avec useState<number>.
+  (révision fonctions)
+
+-----------------------------------------------------------
+
+Exercice 02 - callback_props
+
+- Passer une fonction onClick: () => void en props.
+  (révision callbacks fléchés).
+
+-----------------------------------------------------------
+
+Exercice 03 - user_card
+
+- Créer un composant UserCard qui prend un User.
+  (révision de l’interface User du Day 01)
+
+-----------------------------------------------------------
