@@ -1,6 +1,5 @@
 - Tu lances la commande npm init -y pour générer le fichier package.json.
 
-
 - Tu installe Typescript, ts-node, et nodemon avec:
 npm install Typescript ts-node nodemon --save-dev
     - Typescript: ecrire du code en Ts
