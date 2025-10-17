@@ -1,0 +1,34 @@
+📅 JOUR 15 — Introduction au CSS (Pur)
+
+--------------------------------------------------------------------------------
+
+Exercice 00 - style_basics
+
+- Créer un petit fichier style.css relié à une page HTML/TS simple.
+- Changer la couleur, taille, et police d’un texte.
+
+--------------------------------------------------------------------------------
+
+Exercice 01 - layout_flexbox
+
+- Faire un layout simple avec display: flex, 3 blocs colorés côte à côte.
+
+--------------------------------------------------------------------------------
+
+Exercice 02 - hover_button
+
+- Créer un bouton avec un effet hover (changement de couleur et curseur).
+
+--------------------------------------------------------------------------------
+
+Exercice 03 - css_variables
+
+- Créer une palette de couleurs avec :root { --main-color: ... } et l’utiliser.
+
+--------------------------------------------------------------------------------
+
+Exercice 04 - mini_card
+
+- Créer une carte utilisateur avec photo, nom, et email (structure HTML + CSS).
+
+--------------------------------------------------------------------------------
