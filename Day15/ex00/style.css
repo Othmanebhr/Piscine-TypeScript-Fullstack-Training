@@ -1,0 +1,30 @@
+:root {
+    --main-color: #3b5dda78;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #ffffff;
+}
+
+#title {
+    color: var(--main-color);
+    font-size: 48px;
+    margin: 0;
+    padding: 8px;
+}
+
+.intro {
+    color: #555;
+    margin: 8px;
+    margin-top: 16px;
+}
