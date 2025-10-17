@@ -26,9 +26,12 @@ J'avais deux but lors de la creations de cette piscine:
 - [DAY 11](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day11)
 - [DAY 12](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day12)
 - [DAY 13](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day13)
-- [DAY 14](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day14) - WORK IN PROGRESS 🚧
-- DAY 15 - WORK IN PROGRESS 🚧
+- [DAY 14](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day14)
+- [DAY 15](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day15) - WORK IN PROGRESS 🚧
 - DAY 16 - WORK IN PROGRESS 🚧
+- [DAY 17](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day17)
+- [DAY 18](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day18)
+
 
 ## Days
 
@@ -63,8 +66,12 @@ J'avais deux but lors de la creations de cette piscine:
 ### Day 14:
 - Fetch/Axios & Intégration API
 ### Day 15:
-- Mini-projet Frontend (cumulatif)
+- Introduction au CSS (Pur)
 ### Day 16:
+- Découverte de TailwindCSS
+### Day 17:
+- Mini-projet Frontend (cumulatif)
+### Day 18:
 - Projets Front + Back (cumulatifs)
 
 ## 📝 Post-Scriptum
