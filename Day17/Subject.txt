@@ -1,0 +1,18 @@
+📅 JOUR 17 — Mini-projet Frontend (cumulatif)
+
+-------------------------------------------------------------------------------
+
+Choisir un projet et réutiliser tout ce qu’on a vu :
+
+- todo_ts_dom: Liste de tâches avec le DOM (utiliser types, callbacks fléchés, 
+                manipuler formulaire, afficher liste).
+
+- todo_ts_react: Liste de tâches avec React (props, useState, events).
+
+- user_list_api: Charger une liste d’utilisateurs depuis une API,
+                    valider les données et afficher sous forme de tableau 
+                    (interfaces + async + DOM/React).
+
+Ajoute du CSS ou Tailwind selon ton choix.
+
+-------------------------------------------------------------------------------
