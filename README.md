@@ -24,53 +24,53 @@ Elle te prépare à :
 ### 📌 Résumé de progression :
 
 🧩 **Days 00–05 → Bases du langage TypeScript**
-*Day 00*:
+#### Day 00:
 - Bases du langage, création de fichiers, exploration des types de variables… : [DAY 00](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day00)
-*Day 01*:
+#### Day 01:
 - Types et fonctions : [DAY 01](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day01)
-*Day 02*:
+#### Day 02:
 - Interfaces et classes : [DAY 02](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day02)
-# Day 03:
+#### Day 03:
 - Generique : [DAY 03](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day03)
-# Day 04:
+#### Day 04:
 - Modules et organisation du code : [DAY 04](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day04)
-# Day 05:
+#### Day 05:
 - Fonctions fléchées : [DAY 05](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day05)
 
 ⚙️ **Days 06–10 → Backend avec Node.js & Express**  
-# Day 06:
+#### Day 06:
 - Projet Node/TS (init) : [DAY 06](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day06)
-# Day 07:
+#### Day 07:
 - Express serveur simple : [DAY 07](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day07)
-# Day 08:
+#### Day 08:
 - Params & Query : [DAY 08](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day08)
-# Day 09:
+#### Day 09:
 - Manipulation du Body : [DAY 09](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day09)
-# Day 10:
+#### Day 10:
 - Middlewares & async : [DAY 10](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day10)
 
 🎨 **Days 11–12 → Manipulation du DOM & Événements**  
-# Day 11:
+#### Day 11:
 - DOM basique (révision + découverte) : [DAY 11](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day11)
-# Day 12:
+#### Day 12:
 - Formulaires & Événements : [DAY 12](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day12)
 
 ⚛️ **Days 13–14 → React & Communication avec une API**
-# Day 13:
+#### Day 13:
 - Introduction à React + TypeScript : [DAY 13](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day13)
-# Day 14:
+#### Day 14:
 - Fetch/Axios & Intégration API : [DAY 14](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day14)
 
 💅 **Days 15–16 → Styles avec CSS pur & Tailwind CSS** 
-# Day 15:
+#### Day 15:
 - Introduction au CSS (Pur) : [DAY 15](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day15)
-# Day 16:
+#### Day 16:
 - Découverte de TailwindCSS : [DAY 16](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day16)
 
 🚀 **Days 17–18 → Mini-projets fullstack**
-# Day 17:
+#### Day 17:
 - Mini-projet Frontend (cumulatif) : [DAY 17](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day17)
-# Day 18:
+#### Day 18:
 - Projets Front + Back (cumulatifs) : [DAY 18](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day18)
 
 ---
