@@ -12,12 +12,13 @@ Elle t’aidera à acquérir les réflexes et la logique nécessaires pour abord
 
 ---
 
-### 🎯 Objectifs:
-
-Cette piscine a pour but de te former progressivement à TypeScript, du niveau débutant complet jusqu’à un niveau opérationnel fullstack, prêt pour :
-- ✅ Réussir le projet Transcendance de l’école 42
-- 💼 Réaliser des missions freelance en TypeScript / Node / React
-- 💻 Créer ton portfolio personnel
+  ### 🎯 Objectifs:
+  
+Cette piscine a pour but de te **former pas à pas en TypeScriptt**, en partant de zéro et en posant **une base solide pour le fullstack**.  
+Elle te prépare à :
+  - ✅ Réussir le projet Transcendance de l’école 42
+  - 💼 Réaliser des missions freelance en TypeScript / Node / React
+  - 💻 Créer ton portfolio personnel
 
 ---
 ### 📌 Résumé de progression :
