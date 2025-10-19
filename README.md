@@ -80,7 +80,8 @@ Elle te prépare à :
 Ne te contente pas de suivre les exercices à la lettre : **pousse ton apprentissage au maximum**.  
 N’hésite pas à **réutiliser et combiner** des notions vues dans les Days précédents — c’est même le meilleur moyen de vraiment progresser.
 
-Mon code n’est qu’une façon de faire parmi des centaines d’autres. Si ton code **ne ressemble pas** au mien, ce n’est pas grave — au contraire, il est peut-être même meilleur !  
+Mon code n’est qu’une façon de faire parmi des centaines d’autres. Si ton code **ne ressemble pas** au mien, ce n’est pas grave — au contraire, il est peut-être même meilleur !
+
 Cette piscine aborde énormément de notions, alors si c’est ta première expérience avec le web ou TypeScript, **pratique encore et encore**, refais les exercices, teste des variantes, et amuse-toi à expérimenter. C’est comme ça que tu apprendras le plus efficacement.
 
 **🚀 Tu vas galérer, tu vas chercher, tu vas râler… mais tu vas apprendre. Bon courage!**
