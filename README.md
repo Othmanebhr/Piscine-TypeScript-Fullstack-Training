@@ -1,5 +1,7 @@
 # 🧪 Piscine TypeScript — Fullstack Training
 
+---
+
 ## 🧭 Description
 
 La **Piscine TypeScript — Fullstack Training** a pour objectif d’apprendre le langage **TypeScript** dans l’esprit des **piscines 42**.  
@@ -12,7 +14,7 @@ Elle t’aidera à acquérir les réflexes et la logique nécessaires pour abord
 
 ### 🎯 Objectifs:
 
-- Cette piscine a pour but de te former progressivement à TypeScript, du niveau débutant complet jusqu’à un niveau opérationnel fullstack, prêt pour :
+Cette piscine a pour but de te former progressivement à TypeScript, du niveau débutant complet jusqu’à un niveau opérationnel fullstack, prêt pour :
 - ✅ Réussir le projet Transcendance de l’école 42
 - 💼 Réaliser des missions freelance en TypeScript / Node / React
 - 💻 Créer ton portfolio personnel
@@ -73,11 +75,14 @@ Elle t’aidera à acquérir les réflexes et la logique nécessaires pour abord
 ---
 
 ## 🔁 Conseil pratique — Ne vous limitez pas
-Ne vous contentez pas de suivre les énoncés à la lettre : **poussez votre apprentissage au maximum**.  
-N’hésitez pas à **réutiliser et combiner** des notions vues lors des Days précédents dans les exercices actuels — c’est même fortement conseillé pour consolider vos acquis.
 
-Mon code n’est qu’une proposition parmi des centaines d’approches possibles. Si votre solution **ne ressemble pas** à la mienne, ce n’est pas un problème — au contraire, il y a de grandes chances qu’elle soit tout aussi valide (voire meilleure).  
-Beaucoup de concepts sont abordés dans cette piscine ; si c’est la première fois que vous explorez le web ou TypeScript, **répétez les exercices**, expérimentez des variantes et construisez plusieurs versions. C’est ainsi que vous progresserez le plus vite.
+Ne te contente pas de suivre les exercices à la lettre : **pousse ton apprentissage au maximum**.  
+N’hésite pas à **réutiliser et combiner** des notions vues dans les Days précédents — c’est même le meilleur moyen de vraiment progresser.
+
+Mon code n’est qu’une façon de faire parmi des centaines d’autres. Si ton code **ne ressemble pas** au mien, ce n’est pas grave — au contraire, il est peut-être même meilleur !  
+Cette piscine aborde énormément de notions, alors si c’est ta première expérience avec le web ou TypeScript, **pratique encore et encore**, refais les exercices, teste des variantes, et amuse-toi à expérimenter. C’est comme ça que tu apprendras le plus efficacement.
+
+🚀 **🚀 Tu vas galérer, tu vas chercher, tu vas râler… mais tu vas apprendre. Bon courage!**
 
 ---
 
