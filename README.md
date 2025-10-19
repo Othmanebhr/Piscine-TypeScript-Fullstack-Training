@@ -23,7 +23,7 @@ Elle te prépare à :
 ---
 ### 📌 Résumé de progression :
 
-##🧩 **Days 00–05 → Bases du langage TypeScript**
+## 🧩 **Days 00–05 → Bases du langage TypeScript**
 #### Day 00:
 - Bases du langage, création de fichiers, exploration des types de variables… : [DAY 00](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day00)
 #### Day 01:
@@ -36,8 +36,6 @@ Elle te prépare à :
 - Modules et organisation du code : [DAY 04](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day04)
 #### Day 05:
 - Fonctions fléchées : [DAY 05](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day05)
-
---
 
 ## ⚙️ **Days 06–10 → Backend avec Node.js & Express**  
 #### Day 06:
