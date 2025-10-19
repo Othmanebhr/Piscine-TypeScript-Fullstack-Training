@@ -12,7 +12,7 @@ Elle t’aidera à acquérir les réflexes et la logique nécessaires pour abord
 
 ---
 
-  ### 🎯 Objectifs:
+## 🎯 Objectifs:
   
 Cette piscine a pour but de te **former pas à pas en TypeScriptt**, en partant de zéro et en posant **une base solide pour le fullstack**.  
 Elle te prépare à :
@@ -21,9 +21,9 @@ Elle te prépare à :
   - 💻 Créer ton portfolio personnel
 
 ---
-### 📌 Résumé de progression :
+## 📌 Résumé de progression :
 
-## 🧩 **Days 00–05 → Bases du langage TypeScript**
+### 🧩 **Days 00–05 → Bases du langage TypeScript**
 #### Day 00:
 - Bases du langage, création de fichiers, exploration des types de variables… : [DAY 00](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day00)
 #### Day 01:
@@ -37,7 +37,7 @@ Elle te prépare à :
 #### Day 05:
 - Fonctions fléchées : [DAY 05](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day05)
 
-## ⚙️ **Days 06–10 → Backend avec Node.js & Express**  
+### ⚙️ **Days 06–10 → Backend avec Node.js & Express**  
 #### Day 06:
 - Projet Node/TS (init) : [DAY 06](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day06)
 #### Day 07:
@@ -49,25 +49,25 @@ Elle te prépare à :
 #### Day 10:
 - Middlewares & async : [DAY 10](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day10)
 
-🎨 **Days 11–12 → Manipulation du DOM & Événements**  
+### 🎨 **Days 11–12 → Manipulation du DOM & Événements**  
 #### Day 11:
 - DOM basique (révision + découverte) : [DAY 11](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day11)
 #### Day 12:
 - Formulaires & Événements : [DAY 12](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day12)
 
-⚛️ **Days 13–14 → React & Communication avec une API**
+### ⚛️ **Days 13–14 → React & Communication avec une API**
 #### Day 13:
 - Introduction à React + TypeScript : [DAY 13](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day13)
 #### Day 14:
 - Fetch/Axios & Intégration API : [DAY 14](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day14)
 
-💅 **Days 15–16 → Styles avec CSS pur & Tailwind CSS** 
+### 💅 **Days 15–16 → Styles avec CSS pur & Tailwind CSS** 
 #### Day 15:
 - Introduction au CSS (Pur) : [DAY 15](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day15)
 #### Day 16:
 - Découverte de TailwindCSS : [DAY 16](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day16)
 
-🚀 **Days 17–18 → Mini-projets fullstack**
+### 🚀 **Days 17–18 → Mini-projets fullstack**
 #### Day 17:
 - Mini-projet Frontend (cumulatif) : [DAY 17](https://github.com/Othmanebhr/Piscine-TypeScript/tree/main/Day17)
 #### Day 18:
