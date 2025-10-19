@@ -2,22 +2,14 @@
 
 -------------------------------------------------------------------------------------------
 
-Exercice 00 - tailwind_setup
-
--Initialiser un projet avec Tailwind :
-    npm install -D tailwindcss
-    npx tailwindcss init
-- Configurer les fichiers src/**/*.{ts,tsx,html} dans content.
-
--------------------------------------------------------------------------------------------
-
-Exercice 01 - tailwind_basics
+Exercice 00 - tailwind_basics
 
 - Reproduire les styles du Day 15 (texte, couleurs, layout flex) mais en classes Tailwind.
+  (Ou dans le même style, faites vous plasir!)
 
 -------------------------------------------------------------------------------------------
 
-Exercice 02 - tailwind_components
+Exercice 01 - tailwind_components
 
 Créer 3 composants :
 - Un bouton avec hover
@@ -26,7 +18,7 @@ Créer 3 composants :
 
 -------------------------------------------------------------------------------------------
 
-Exercice 03 - tailwind_responsive
+Exercice 02 - tailwind_responsive
 
 - Créer un layout responsive (2 colonnes → 1 colonne sur petit écran).
 
