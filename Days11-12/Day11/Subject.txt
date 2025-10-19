@@ -1,0 +1,29 @@
+📅 JOUR 11 — DOM basique (révision + découverte)
+
+--------------------------------------------------------------------------------
+
+Exercice 00 - selectEl
+
+- Crée une fonction fléchée selectEl(id: string) qui retourne un élément DOM
+
+--------------------------------------------------------------------------------
+
+Exercice 01 - click_event
+
+- Sélectionner un bouton et afficher un message dans la console quand on clique 
+  dessus.
+
+--------------------------------------------------------------------------------
+
+Exercice 02 - text_update
+
+- Modifier dynamiquement le texte d’un élément.
+
+--------------------------------------------------------------------------------
+
+Exercice 03 - list_insert
+
+- Créer et insérer un nouvel élément <li> dans une <ul> 
+(révision classes & objets simples).
+
+--------------------------------------------------------------------------------

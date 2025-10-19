@@ -1,0 +1,16 @@
+📅 JOUR 06 — Projet Node/TS (init)
+
+---------------------------------------------------
+
+Exercice 00 - ts_node_project
+
+- Initialise projet Node/TS (npm init -y)
+- Ajoute tsconfig.json
+- Installe ts-node et nodemon
+- Crée un fichier server.ts qui affiche un message
+
+Bonus:
+- Creer un script "start" et l'exec avec npm start
+
+---------------------------------------------------
+

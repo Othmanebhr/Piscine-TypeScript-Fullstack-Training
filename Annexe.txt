@@ -1,0 +1,6 @@
+/*Annexes*/
+
+npm → installe des paquets et gère tes dépendances.
+npx → exécute un paquet sans l’installer globalement.
+nvm → change facilement de version de Node.js.
+npm start → lance le script "start" défini dans package.json.
